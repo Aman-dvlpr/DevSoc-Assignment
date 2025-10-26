@@ -1,4 +1,4 @@
-# Navigate
+# Navigate.
 
 A new Flutter project.
 
